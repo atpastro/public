@@ -1,13 +1,13 @@
 {
-    "generated_at": "2026-10-31 20:24:36",
-    "latest_situational_awareness_index": 79.61,
+    "generated_at": "2026-10-31 23:57:11",
+    "latest_situational_awareness_index": 84.28,
     "diagnostic_status": "\u26a0\ufe0f ANOMALY / JAMMING SUSPECTED: Quiet space weather, but terrestrial flight GNSS integrity is suppressed!",
     "metrics": {
-        "timestamp": "2026-10-31 20:24:35",
+        "timestamp": "2026-10-31 23:57:10",
         "kp_index": 2.0,
-        "gnss_cn0_proxy_dbhz": 34.22,
+        "gnss_cn0_proxy_dbhz": 29.72,
         "macro_panic_risk_score": 26.37397092572695,
-        "sai_score": 79.61
+        "sai_score": 84.28
     },
-    "total_historical_records": 350
+    "total_historical_records": 360
 }
