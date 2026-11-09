@@ -1,13 +1,13 @@
 {
-    "generated_at": "2026-11-09 00:33:34",
-    "latest_situational_awareness_index": 21.52,
+    "generated_at": "2026-11-09 13:35:27",
+    "latest_situational_awareness_index": 26.09,
     "diagnostic_status": "\ud83d\udfe2 NOMINAL: Physical regional RF link stable.",
     "metrics": {
-        "timestamp": "2026-11-09 00:33:33",
+        "timestamp": "2026-11-09 13:35:26",
         "kp_index": 2.0,
-        "gnss_cn0_proxy_dbhz": 36.67,
-        "macro_panic_risk_score": 26.369321132371116,
-        "sai_score": 21.52
+        "gnss_cn0_proxy_dbhz": 40.8,
+        "macro_panic_risk_score": 35.71271869561044,
+        "sai_score": 26.09
     },
-    "total_historical_records": 550
+    "total_historical_records": 560
 }
