@@ -1,13 +1,13 @@
 {
-    "generated_at": "2026-11-13 22:22:20",
-    "latest_situational_awareness_index": 87.81,
-    "diagnostic_status": "\u26a0\ufe0f ANOMALY / JAMMING SUSPECTED: Quiet space weather, but terrestrial flight GNSS integrity is suppressed!",
+    "generated_at": "2026-11-14 11:55:59",
+    "latest_situational_awareness_index": 24.21,
+    "diagnostic_status": "\ud83d\udfe2 NOMINAL: Physical regional RF link stable.",
     "metrics": {
-        "timestamp": "2026-11-13 22:22:19",
+        "timestamp": "2026-11-14 11:55:58",
         "kp_index": 2.0,
-        "gnss_cn0_proxy_dbhz": 35.24,
+        "gnss_cn0_proxy_dbhz": 42.46,
         "macro_panic_risk_score": 37.49338740158167,
-        "sai_score": 87.81
+        "sai_score": 24.21
     },
-    "total_historical_records": 610
+    "total_historical_records": 620
 }
